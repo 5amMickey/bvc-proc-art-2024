@@ -1,0 +1,11 @@
+{
+  "hpath": "$DEMO_DIR",
+  "env": [
+    {
+      "DEMO_DIR": "$DEMO_ROOT/Houdini/Packages/ProjectAssets"
+    },
+    {
+      "DEMO_ROOT": "PATH TO THE ENGINE (UNREAL/UNITY/ETC) PROJECT FOLDER ON YOUR DRIVE (i.e. C:/Users/USERNAME/Documents/... on Win, or /Users/USERNAME/Documents/... on Mac)"
+    }
+  ]
+}
