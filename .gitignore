@@ -78,3 +78,5 @@ Houdini/Packages/DemoAssets/otls/backup/*
 
 .DS_Store
 
+*.autosave
+*/backup/*
